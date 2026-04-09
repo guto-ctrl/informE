@@ -47,4 +47,4 @@ Você pode usar, copiar, modificar e distribuir este software livremente para es
 
 Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
 
-Para solicitações de uso comercial, entre em contato: seuemail@email.com
+Para solicitações de uso comercial, entre em contato: tcclovers14@gmail.com
