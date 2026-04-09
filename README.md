@@ -2,6 +2,14 @@
 
 RMM (Remote Monitoring and Management) desenvolvido como TCC, focado no gerenciamento centralizado de estações de trabalho.
 
+# Descrição do Projeto
+
+informE é um RMM (Remote Monitoring and Management) desenvolvido como Trabalho de Conclusão de Curso (TCC), com foco no gerenciamento centralizado de estações de trabalho em ambientes corporativos.
+
+A solução permite monitorar e administrar múltiplos dispositivos a partir de um único sistema, automatizando tarefas como atualizações de sistema operacional, gerenciamento de softwares, padronização de configurações e aplicação de políticas de segurança.
+
+O objetivo do projeto é reduzir atividades manuais e repetitivas da equipe de TI, aumentar a consistência das configurações entre máquinas e melhorar a confiabilidade de operações em larga escala.
+
 ## 🚀 Funcionalidades
 
 - Monitoramento remoto de dispositivos  
