@@ -36,3 +36,15 @@ O objetivo do projeto é reduzir atividades manuais e repetitivas da equipe de T
 
 ### 🧱 Arquitetura
 ![Onion Architecture](https://img.shields.io/badge/Architecture-Onion-8A2BE2?style=for-the-badge)
+
+## 📄 Licença
+
+Este projeto está licenciado sob uma licença customizada para fins educacionais e pessoais.
+
+Você pode usar, copiar, modificar e distribuir este software livremente para estudo e desenvolvimento.
+
+❌ O uso comercial é proibido sem autorização prévia dos autores.
+
+Para mais detalhes, consulte o arquivo [LICENSE](./LICENSE).
+
+Para solicitações de uso comercial, entre em contato: seuemail@email.com
