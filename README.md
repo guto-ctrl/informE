@@ -35,4 +35,4 @@ O objetivo do projeto é reduzir atividades manuais e repetitivas da equipe de T
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 🧱 Arquitetura
-![Onion Architecture](https://img.shields.io/badge/Architecture-Onion-8A2BE2?style=for-the-badge)v
+![Onion Architecture](https://img.shields.io/badge/Architecture-Onion-8A2BE2?style=for-the-badge)
