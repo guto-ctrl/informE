@@ -19,23 +19,13 @@ O objetivo do projeto é reduzir atividades manuais e repetitivas da equipe de T
 
 ## 🛠️ Stack
 
-### 📝 Repo
-
 ![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)
-
-### 🔙 Backend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### 🗄️ Database
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🎨 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### 🧱 Arquitetura
-![Onion Architecture](https://img.shields.io/badge/Architecture-Onion-8A2BE2?style=for-the-badge)
+![.NET](https://img.shields.io/badge/.NET-Backend-512BD4?logo=dotnet)
+![Entity Framework Core](https://img.shields.io/badge/EF%20Core-ORM-5C2D91?logo=dotnet)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql)
+![Next.js](https://img.shields.io/badge/Next.js-Frontend-000000?logo=nextdotjs)
+![React](https://img.shields.io/badge/React-Library-61DAFB?logo=react)
+![Onion Architecture](https://img.shields.io/badge/Onion%20Architecture-Pattern-8A2BE2)
 
 ## 📄 Licença
 
