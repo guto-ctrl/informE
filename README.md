@@ -19,13 +19,13 @@ O objetivo do projeto é reduzir atividades manuais e repetitivas da equipe de T
 
 ## 🛠️ Stack
 
-![Repo](https://img.shields.io/badge/github-repo-blue?logo=github)
-![.NET](https://img.shields.io/badge/.NET-Backend-512BD4?logo=dotnet)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-ORM-5C2D91?logo=dotnet)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-4169E1?logo=postgresql)
-![Next.js](https://img.shields.io/badge/Next.js-Frontend-000000?logo=nextdotjs)
-![React](https://img.shields.io/badge/React-Library-61DAFB?logo=react)
-![Onion Architecture](https://img.shields.io/badge/Onion%20Architecture-Pattern-8A2BE2)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF%20Core-5C2D91?logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Onion Architecture](https://img.shields.io/badge/Onion%20Architecture-8A2BE2)
+![GitHub](https://img.shields.io/badge/GitHub-8A2BE2?logo=github&logoColor=white)
 
 ## 📄 Licença
 
